@@ -1,2 +1,6 @@
 transformers
 speechbrain
+pydub
+noisereduce
+scipy
+moviepy
