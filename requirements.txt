@@ -4,3 +4,5 @@ pydub
 noisereduce
 scipy
 moviepy
+face_recognition
+python_speech_features
